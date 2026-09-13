@@ -4,8 +4,6 @@
 I am an Environmental Engineering student with a strong interest in Data Science.  
 Passionate about technology, innovation, and digital transformation.
 
----
-
 ## Currently Learning
 - Data Science and Analytics  
 - IT Strategy and Governance  
@@ -13,9 +11,8 @@ Passionate about technology, innovation, and digital transformation.
 
 ## Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-Beginner-blue?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Intermediate-red?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?logo=html5&logoColor=white)
